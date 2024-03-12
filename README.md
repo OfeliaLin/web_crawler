@@ -36,10 +36,10 @@ This repository contains a Python script for scraping images from the Fossil web
 - You can customize the output directory by modifying the `out_dir` variable in the script.
 - Adjust the `DIV` variable to match the specific HTML element containing the image links if necessary.
 
-## Contributors
+## Author
 
-- [Your Name](https://github.com/your_username) - Creator and maintainer
+Ofelia Lin
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License](LICENSE).
